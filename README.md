@@ -23,3 +23,6 @@ The project is an application developed with the goal of reinforcing recognition
 
 https://user-images.githubusercontent.com/87093440/178813541-e0fb39f9-9b45-4a67-803e-2b987bbb0c43.mp4
 
+## See the project
+
+- <strong>Click here:</strong> https://github-search-peach.vercel.app/
